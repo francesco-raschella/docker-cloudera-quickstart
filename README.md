@@ -9,5 +9,6 @@ docker run --hostname=quickstart.cloudera --privileged=true -t -i -p 8888:8888 -
 STEP 3:
 browse hue localhost:8888
 Optionally start services
+
 cloudera
 cloudera
